@@ -2,7 +2,7 @@
 ## Ingredients
 - eggs
 - flour
-- vanilla
+- Bourbon vanilla
 - milk
 ##instruction
 Mix and cook on the hob but do not boil.
